@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-![My Resumé](/files/resume.pdf)
+![My Resumé](/files/Andrew-Lin-Resume.pdf)
